@@ -1,0 +1,7 @@
+Item,Stem,Answer,A,B,C,D
+1,A coin is tossed three times. What is the probability that it lands on heads exactly one time?,D,0.125,0.25,0.333,0.375
+2,100+100,B,2,200,6,6.67
+3,500+50,C, 1/13,13/52,550,17/52
+4,400+40,B,100,440,700,900
+5,200+20,D,200,500,800,220
+6,300+30,C,300,600,330,1000
